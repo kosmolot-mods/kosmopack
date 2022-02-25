@@ -1,0 +1,8 @@
+version:2865
+skipMultiplayerWarning:true
+joinedFirstServer:true
+autoJump:false
+bobView:false
+soundCategory_music:0.0
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown

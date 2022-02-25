@@ -1,0 +1,20 @@
+{
+  "GenericHotkeys": {
+   "zoomActivate": {
+      "keys": "C",
+      "settings": {
+        "activate_on": "BOTH",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": true,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": false
+      }
+    }
+  },
+ "TweakToggles": {
+    "tweakShulkerBoxDisplay": true,
+    "tweakZoom": true
+  }
+}
