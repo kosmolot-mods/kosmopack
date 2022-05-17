@@ -1,5 +1,8 @@
 {
   "GenericHotkeys": {
+   "inventoryPreview": {
+     "keys": "TAB"
+   },
    "zoomActivate": {
       "keys": "C",
       "settings": {
@@ -15,6 +18,7 @@
   },
  "TweakToggles": {
     "tweakShulkerBoxDisplay": true,
+    "tweakInventoryPreview": true,
     "tweakZoom": true
   }
 }
