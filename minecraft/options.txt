@@ -15,3 +15,5 @@ showSubtitles:true
 key_gui.xaero_open_map:key.keyboard.j
 advancedItemTooltips:true
 pauseOnLostFocus:false
+tutorialStep:none
+onboardAccessibility:false
