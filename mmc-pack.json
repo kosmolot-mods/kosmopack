@@ -12,29 +12,28 @@
             "cachedName": "Minecraft",
             "cachedRequires": [
                 {
-                    "equals": "3.3.1",
                     "suggests": "3.3.1",
                     "uid": "org.lwjgl3"
                 }
             ],
-            "cachedVersion": "1.19.4",
+            "cachedVersion": "1.20",
             "important": true,
             "uid": "net.minecraft",
-            "version": "1.19.4"
+            "version": "1.20"
         },
         {
             "cachedName": "Intermediary Mappings",
             "cachedRequires": [
                 {
-                    "equals": "1.19.4",
+                    "equals": "1.20",
                     "uid": "net.minecraft"
                 }
             ],
-            "cachedVersion": "1.19.4",
+            "cachedVersion": "1.20",
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "net.fabricmc.intermediary",
-            "version": "1.19.4"
+            "version": "1.20"
         },
         {
             "cachedName": "Fabric Loader",
@@ -43,9 +42,9 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "cachedVersion": "0.14.19",
+            "cachedVersion": "0.14.21",
             "uid": "net.fabricmc.fabric-loader",
-            "version": "0.14.19"
+            "version": "0.14.21"
         }
     ],
     "formatVersion": 1
