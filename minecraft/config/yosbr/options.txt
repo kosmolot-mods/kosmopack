@@ -17,3 +17,4 @@ advancedItemTooltips:true
 pauseOnLostFocus:false
 tutorialStep:none
 onboardAccessibility:false
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","file/Kosmolot\u0027s Colored Subtitles 1.20+20230609.zip","file/Kosmolot\u0027s Death Notification 1.20.zip","file/Kosmolot\u0027s Favourite Cookie 1.20.zip","file/[Glowing] More Armor Trim Materials.zip","file/more_materials_trimmable_tools_compat.zip","file/rp-trimmable-tools-mc1.20-v1.0.4.zip"]
