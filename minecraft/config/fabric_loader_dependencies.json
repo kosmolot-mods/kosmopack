@@ -1,12 +1,11 @@
 {
   "version": 1,
   "overrides": {
-    "carpet-extra": { "-depends": { "minecraft": "IGNORED" } },
-    "itemscroller": { "-depends": { "minecraft": "IGNORED" } },
-    "malilib": { "-depends": { "minecraft": "IGNORED" } },
-    "litematica": { "-depends": { "minecraft": "IGNORED" } },
     "lithium": { "-depends": { "minecraft": "IGNORED" } },
-    "minihud": { "-depends": { "minecraft": "IGNORED" } },
-    "tweakeroo": { "-depends": { "minecraft": "IGNORED" } }
+    "carpet-extra": { "-depends": { "minecraft": "IGNORED" } },
+    "controlling": { "-depends": { "minecraft": "IGNORED" } },
+    "searchables": { "-depends": { "minecraft": "IGNORED" } },
+    "masa_gadget_mod-1_20": { "-depends": { "minecraft": "IGNORED" } },
+    "magiclib-1_20": { "-depends": { "minecraft": "IGNORED" } }
   }
 }
