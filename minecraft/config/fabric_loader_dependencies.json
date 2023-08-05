@@ -1,9 +1,0 @@
-{
-  "version": 1,
-  "overrides": {
-    "minecraftclientgobrrr": { "-depends": { "minecraft": "IGNORED" } },
-    "notebook": { "-depends": { "minecraft": "IGNORED" } },
-    "masa_gadget_mod-1_20": { "-depends": { "minecraft": "IGNORED" } },
-    "magiclib-1_20": { "-depends": { "minecraft": "IGNORED" } }
-  }
-}
